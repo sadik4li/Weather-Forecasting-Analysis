@@ -57,3 +57,6 @@ Visualization Techniques:
 ► Integrated iconography for a more intuitive, user-friendly layout.
 
 This dashboard leverages Power BI’s robust data modeling (via Power Query and DAX) and advanced visualization capabilities to deliver actionable, up-to-date weather intelligence for diverse locations, making it a valuable reference for both everyday users and decision-makers.
+
+
+preview : ![Dashboard Preview]()
