@@ -59,4 +59,4 @@ Visualization Techniques:
 This dashboard leverages Power BI’s robust data modeling (via Power Query and DAX) and advanced visualization capabilities to deliver actionable, up-to-date weather intelligence for diverse locations, making it a valuable reference for both everyday users and decision-makers.
 
 
-preview : ![Dashboard Preview]()
+preview : ![Dashboard Preview](https://github.com/sadik4li/Weather-Forecasting-Analysis/blob/main/Screenshot%202025-07-31%20100724.png)
